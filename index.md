@@ -3,7 +3,7 @@
 
 # nilswilde's Website
 
-An engaging 1-3 sentence description of your lab.
+Welcome to the Lab for Interactive Systems and Autonomous Robotics (LISARt).
 
 {% include section.html %}
 
