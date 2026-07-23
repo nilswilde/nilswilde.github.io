@@ -5,6 +5,7 @@ description: At LISARt we conduct robotics research in planning and navigation, 
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
+show-title: false
 
 # site social media and other links
 links:
