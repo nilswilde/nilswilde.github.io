@@ -10,10 +10,10 @@ Our focus is on developing fundamental methods and solution in robot motion plan
 
 {% include section.html %}
 
-## Highlights
+## Learn more about our group!
 
 {% capture text %}
-Learn more about our research group!
+Explore the different research projects at LISARt.
 
 {%
   include button.html
@@ -36,9 +36,7 @@ Learn more about our research group!
 
 {% capture text %}
 
-Explore the different research projects at LISARt.
-
-
+Meet our researchers.
 
 {%
   include button.html
