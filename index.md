@@ -1,9 +1,11 @@
 ---
 ---
 
-# nilswilde's Website
+# Welcome to the Lab for Interactive Systems and Autonomous Robotics (LISARt).
 
-Welcome to the Lab for Interactive Systems and Autonomous Robotics (LISARt).
+We conduct robotics research in planning and navigation, human-robot interaction, multi-robot coordination and multi-objective optimization for robots on the ground, in the air or on the water.
+
+Our focus is on developing fundamental methods and solution in robot motion planning, informative path planning, scheduling, multi-robot task allocation, dynamic vehicle routing, human-robot interaction, learning from human feedback and human-swarm interaction. The various research project contribute towards automated logistics in healthcare and industries, data collection and monitoring for precision agriculture, environmental sciences, forestry and oceanography, as well as intelligent transportation.
 
 {% include section.html %}
 
