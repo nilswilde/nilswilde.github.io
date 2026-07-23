@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: LISARt
 subtitle: Lab for Intelligent Systems and Autonomous Robots
-description: The LISARt conducts robotics research in planning and navigation, human-robot interaction, multi-robot systems and multi-objective optimization.
+description: At LISARt we conduct robotics research in planning and navigation, human-robot interaction, multi-robot systems and multi-objective optimization.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
