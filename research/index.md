@@ -18,6 +18,7 @@ nav:
 %}
 Many problems in robotics seek to simultaneously optimize several competing objectives such as length, risk, and social acceptability of robot paths. A conventional approach is using a single cost function comprised of the weighted sum of the individual objectives. Yet, finding representative weights remains an important challenge. Thus, we study methods for computing a finite set of weight vectors whose optimal solutions approximate the set of all attainable solutions. Moreover, we investigate fundamental limitations of the widely used weighted sum approach and its alternatives.
 
+
 {% include section.html %}
 
 # Multi-robot Task Assignment and Pickup & Delivery
