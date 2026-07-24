@@ -14,10 +14,9 @@ nav:
 
 
 
+{% include section.html %}
 
 # {% include icon.html icon="fa-solid fa-users" %}Prospective Students
-
-{% include section.html %}
 
 We are always looking for talented, self-motivated lab members at all levels (undergrad, graduate and postdoc), even when no current openings are listed below. A background in robotics, control, optimization, AI, ML or HCI is desired, as well as a strong interest in robot motion planning, human-robot interaction or multi-robot systems.
 
