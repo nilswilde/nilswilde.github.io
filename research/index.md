@@ -9,19 +9,22 @@ nav:
 
 {% include section.html %}
 
-# Multi-Objective Planning in Robotics
+
 
 {%
   include figure.html
   image="research/images/moo.png"
   width="400px"
 %}
+<img align="left" width="300" src="research/images/moo.png" />
+
+### Multi-Objective Planning in Robotics
 Many problems in robotics seek to simultaneously optimize several competing objectives such as length, risk, and social acceptability of robot paths. A conventional approach is using a single cost function comprised of the weighted sum of the individual objectives. Yet, finding representative weights remains an important challenge. Thus, we study methods for computing a finite set of weight vectors whose optimal solutions approximate the set of all attainable solutions. Moreover, we investigate fundamental limitations of the widely used weighted sum approach and its alternatives.
 
+<br clear="left" />
 
-{% include section.html %}
 
-# Multi-robot Task Assignment and Pickup & Delivery
+### Multi-robot Task Assignment and Pickup & Delivery
 
 Autonomous robots find increasingly widespread deployment in service applications. For instance, in hospitals mobile robot platforms help to reduce the workload for qualified staff. Thus, as part of the EU Horizon 2020 project Harmony we investigate multi-robot task assignment for material transport in hospital environments with requests that appear online and have a fixed time window.
 
