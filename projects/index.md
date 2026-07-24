@@ -1,5 +1,6 @@
 ---
 title: Projects
+hidden: true
 nav:
   order: 2
   tooltip: Software, datasets, and more
