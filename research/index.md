@@ -7,15 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-{% include section.html %}
 
-
-
-{%
-  include figure.html
-  image="research/images/moo.png"
-  width="400px"
-%}
 <img align="left" width="300" src="research/images/moo.png" />
 
 ### Multi-Objective Planning in Robotics
