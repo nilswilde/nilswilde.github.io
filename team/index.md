@@ -12,7 +12,7 @@ nav:
 {% include list.html data="members" component="portrait" filter="role == 'Group Lead'" %}
 {% include list.html data="members" component="portrait" filter="role == 'PhD'" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+
 
 
 # {% include icon.html icon="fa-solid fa-users" %}Prospective Students
