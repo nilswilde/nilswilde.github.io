@@ -1,7 +1,7 @@
 ---
 ---
 
-<h2 align="center">Welcome to the <br> Lab for Interactive Systems and Autonomous Robotics (LISARt)</h2>
+<h2 align="center">Welcome to the Lab for Interactive Systems and Autonomous Robotics (LISARt)</h2>
 
 We conduct robotics research in planning and navigation, human-robot interaction, multi-robot coordination and multi-objective optimization for robots on the ground, in the air or on the water.
 
