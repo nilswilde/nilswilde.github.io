@@ -2,6 +2,7 @@
 name: Nils Wilde
 image: images/members/nils.jpg
 role: Group Lead
+description: Group Leader
 affiliation: Dalhousie University
 
 links:
