@@ -8,9 +8,8 @@
   - Chris Pek
   - Javier Alonso-Mora
   publisher: IEEE Robotics and Automation Letters
-  date: ''
-  link: <a href="https://doi.org/hccftd" target="_blank" rel="noopener noreferrer"
-    title="https://doi.org/hccftd">https://doi.org/hccftd</a>
+  date: '2026-06-01'
+  link: https://doi.org/hccftd
   orcid: 0000-0003-3238-8153
   plugin: sources.py
   file: sources.yaml
@@ -22,9 +21,8 @@
   - Nils Wilde
   - Stephen L. Smith
   publisher: IEEE Transactions on Robotics
-  date: ''
-  link: <a href="https://doi.org/hccftf" target="_blank" rel="noopener noreferrer"
-    title="https://doi.org/hccftf">https://doi.org/hccftf</a>
+  date: '2025-01-01'
+  link: https://doi.org/hccftf
   orcid: 0000-0003-3238-8153
   plugin: sources.py
   file: sources.yaml
@@ -35,9 +33,8 @@
   - Stephen L. Smith
   - Javier Alonso-Mora
   publisher: IEEE Robotics and Automation Letters
-  date: ''
-  link: <a href="https://doi.org/hccftg" target="_blank" rel="noopener noreferrer"
-    title="https://doi.org/hccftg">https://doi.org/hccftg</a>
+  date: '2024-03-01'
+  link: https://doi.org/hccftg
   orcid: 0000-0003-3238-8153
   plugin: sources.py
   file: sources.yaml
@@ -51,9 +48,8 @@
   - Javier Alonso-Mora
   - Stephen L. Smith
   publisher: IEEE Transactions on Robotics
-  date: ''
-  link: <a href="https://doi.org/hccfth" target="_blank" rel="noopener noreferrer"
-    title="https://doi.org/hccfth">https://doi.org/hccfth</a>
+  date: '2024-01-01'
+  link: https://doi.org/hccfth
   orcid: 0000-0003-3238-8153
   plugin: sources.py
   file: sources.yaml
@@ -63,9 +59,8 @@
   - Nils Wilde
   - Javier Alonso-Mora
   publisher: IEEE Transactions on Robotics
-  date: ''
-  link: <a href="https://doi.org/hccftj" target="_blank" rel="noopener noreferrer"
-    title="https://doi.org/hccftj">https://doi.org/hccftj</a>
+  date: '2024-01-01'
+  link: https://doi.org/hccftj
   orcid: 0000-0003-3238-8153
   plugin: sources.py
   file: sources.yaml
@@ -79,9 +74,8 @@
   - Javier Alonso-Mora
   - Stephen L. Smith
   publisher: IEEE Robotics and Automation Letters
-  date: ''
-  link: <a href="https://doi.org/hccftk" target="_blank" rel="noopener noreferrer"
-    title="https://doi.org/hccftk">https://doi.org/hccftk</a>
+  date: '2023-09-01'
+  link: https://doi.org/hccftk
   orcid: 0000-0003-3238-8153
   plugin: sources.py
   file: sources.yaml
@@ -93,9 +87,8 @@
   - Nils Wilde
   - Stephen L. Smith
   publisher: arXiv
-  date: ''
-  link: <a href="https://doi.org/hccftm" target="_blank" rel="noopener noreferrer"
-    title="https://doi.org/hccftm">https://doi.org/hccftm</a>
+  date: '2023-01-01'
+  link: https://doi.org/hccftm
   orcid: 0000-0003-3238-8153
   plugin: sources.py
   file: sources.yaml
@@ -108,21 +101,11 @@
   - Pratap Tokekar
   - Stephen L. Smith
   publisher: 2023 IEEE International Conference on Robotics and Automation (ICRA)
-  date: ''
-  link: <a href="https://doi.org/hccftn" target="_blank" rel="noopener noreferrer"
-    title="https://doi.org/hccftn">https://doi.org/hccftn</a>
+  date: '2023-05-29'
+  link: https://doi.org/hccftn
   orcid: 0000-0003-3238-8153
   plugin: sources.py
   file: sources.yaml
-- id: issn:26403498
-  title: ISSN 2640-3498 - Proceedings of Machine Learning Research
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://portal.issn.org/resource/ISSN/26403498
-  orcid: 0000-0003-3238-8153
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1007/978-3-031-21090-7_30
   title: Error-Bounded Approximation of Pareto Fronts in Robot Planning Problems
   authors:
@@ -132,9 +115,8 @@
   - Javier Alonso-Mora
   - Stephen L. Smith
   publisher: Springer Proceedings in Advanced Robotics
-  date: ''
-  link: <a href="https://doi.org/hccftp" target="_blank" rel="noopener noreferrer"
-    title="https://doi.org/hccftp">https://doi.org/hccftp</a>
+  date: '2022-12-15'
+  link: https://doi.org/hccftp
   orcid: 0000-0003-3238-8153
   plugin: sources.py
   file: sources.yaml
@@ -154,9 +136,8 @@
   - Armin Sadeghi
   - Stephen L. Smith
   publisher: IEEE Robotics and Automation Letters
-  date: ''
-  link: <a href="https://doi.org/hccftq" target="_blank" rel="noopener noreferrer"
-    title="https://doi.org/hccftq">https://doi.org/hccftq</a>
+  date: '2022-04-01'
+  link: https://doi.org/hccftq
   orcid: 0000-0003-3238-8153
   plugin: sources.py
   file: sources.yaml
@@ -167,9 +148,8 @@
   - Nils Wilde
   - Stephen L. Smith
   publisher: 2022 European Control Conference (ECC)
-  date: ''
-  link: <a href="https://doi.org/hccftr" target="_blank" rel="noopener noreferrer"
-    title="https://doi.org/hccftr">https://doi.org/hccftr</a>
+  date: '2022-07-12'
+  link: https://doi.org/hccftr
   orcid: 0000-0003-3238-8153
   plugin: sources.py
   file: sources.yaml
@@ -194,9 +174,8 @@
   - Pratap Tokekar
   - Stephen L. Smith
   publisher: arXiv
-  date: ''
-  link: <a href="https://doi.org/hccftt" target="_blank" rel="noopener noreferrer"
-    title="https://doi.org/hccftt">https://doi.org/hccftt</a>
+  date: '2022-01-01'
+  link: https://doi.org/hccftt
   orcid: 0000-0003-3238-8153
   plugin: sources.py
   file: sources.yaml
@@ -209,9 +188,8 @@
   - Javier Alonso-Mora
   - Stephen L. Smith
   publisher: arXiv
-  date: ''
-  link: <a href="https://doi.org/hccftv" target="_blank" rel="noopener noreferrer"
-    title="https://doi.org/hccftv">https://doi.org/hccftv</a>
+  date: '2022-01-01'
+  link: https://doi.org/hccftv
   orcid: 0000-0003-3238-8153
   plugin: sources.py
   file: sources.yaml
@@ -222,9 +200,8 @@
   - Nils Wilde
   - Stephen L. Smith
   publisher: 2022 IEEE 61st Conference on Decision and Control (CDC)
-  date: ''
-  link: <a href="https://doi.org/hccftw" target="_blank" rel="noopener noreferrer"
-    title="https://doi.org/hccftw">https://doi.org/hccftw</a>
+  date: '2022-12-06'
+  link: https://doi.org/hccftw
   orcid: 0000-0003-3238-8153
   plugin: sources.py
   file: sources.yaml
@@ -246,9 +223,8 @@
   - Nils Wilde
   - Javier Alonso-Mora
   publisher: 2022 IEEE 61st Conference on Decision and Control (CDC)
-  date: ''
-  link: <a href="https://doi.org/hccftz" target="_blank" rel="noopener noreferrer"
-    title="https://doi.org/hccftz">https://doi.org/hccftz</a>
+  date: '2022-12-06'
+  link: https://doi.org/hccftz
   orcid: 0000-0003-3238-8153
   plugin: sources.py
   file: sources.yaml
@@ -260,9 +236,8 @@
   - Nils Wilde
   - Stephen L. Smith
   publisher: 2022 IEEE 61st Conference on Decision and Control (CDC)
-  date: ''
-  link: <a href="https://doi.org/g4hnqb" target="_blank" rel="noopener noreferrer"
-    title="https://doi.org/g4hnqb">https://doi.org/g4hnqb</a>
+  date: '2022-12-06'
+  link: https://doi.org/g4hnqb
   orcid: 0000-0003-3238-8153
   plugin: sources.py
   file: sources.yaml
@@ -286,9 +261,8 @@
   - Nils Wilde
   - Stephen L. Smith
   publisher: Springer Proceedings in Advanced Robotics
-  date: ''
-  link: <a href="https://doi.org/hccft3" target="_blank" rel="noopener noreferrer"
-    title="https://doi.org/hccft3">https://doi.org/hccft3</a>
+  date: '2021-01-01'
+  link: https://doi.org/hccft3
   orcid: 0000-0003-3238-8153
   plugin: sources.py
   file: sources.yaml
@@ -300,9 +274,8 @@
   - Dorsa Sadigh
   - Stephen L. Smith
   publisher: arXiv
-  date: ''
-  link: <a href="https://doi.org/hccft4" target="_blank" rel="noopener noreferrer"
-    title="https://doi.org/hccft4">https://doi.org/hccft4</a>
+  date: '2021-01-01'
+  link: https://doi.org/hccft4
   orcid: 0000-0003-3238-8153
   plugin: sources.py
   file: sources.yaml
@@ -327,9 +300,8 @@
   - Stephen L Smith
   - "Dana Kuli\u0107"
   publisher: The International Journal of Robotics Research
-  date: ''
-  link: <a href="https://doi.org/gqwjmt" target="_blank" rel="noopener noreferrer"
-    title="https://doi.org/gqwjmt">https://doi.org/gqwjmt</a>
+  date: '2020-03-18'
+  link: https://doi.org/gqwjmt
   orcid: 0000-0003-3238-8153
   plugin: sources.py
   file: sources.yaml
@@ -353,9 +325,8 @@
   - Stephen L. Smith
   publisher: 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems
     (IROS)
-  date: ''
-  link: <a href="https://doi.org/hccft7" target="_blank" rel="noopener noreferrer"
-    title="https://doi.org/hccft7">https://doi.org/hccft7</a>
+  date: '2020-10-24'
+  link: https://doi.org/hccft7
   orcid: 0000-0003-3238-8153
   plugin: sources.py
   file: sources.yaml
@@ -366,9 +337,8 @@
   - Dana Kulic
   - Stephen L. Smith
   publisher: 2020 IEEE International Conference on Robotics and Automation (ICRA)
-  date: ''
-  link: <a href="https://doi.org/gqmqmg" target="_blank" rel="noopener noreferrer"
-    title="https://doi.org/gqmqmg">https://doi.org/gqmqmg</a>
+  date: '2020-05-01'
+  link: https://doi.org/gqmqmg
   orcid: 0000-0003-3238-8153
   plugin: sources.py
   file: sources.yaml
@@ -380,9 +350,8 @@
   - Dana Kulic
   - Stephen L. Smith
   publisher: IEEE Robotics and Automation Letters
-  date: ''
-  link: <a href="https://doi.org/ggzj35" target="_blank" rel="noopener noreferrer"
-    title="https://doi.org/ggzj35">https://doi.org/ggzj35</a>
+  date: '2019-04-01'
+  link: https://doi.org/ggzj35
   orcid: 0000-0003-3238-8153
   plugin: sources.py
   file: sources.yaml
@@ -394,9 +363,8 @@
   - Dana Kulic
   - Stephen L. Smith
   publisher: arXiv
-  date: ''
-  link: <a href="https://doi.org/hccft8" target="_blank" rel="noopener noreferrer"
-    title="https://doi.org/hccft8">https://doi.org/hccft8</a>
+  date: '2019-01-01'
+  link: https://doi.org/hccft8
   orcid: 0000-0003-3238-8153
   plugin: sources.py
   file: sources.yaml
@@ -409,8 +377,8 @@
   - Stephen L. Smith
   - "Dana Kuli\u0107"
   publisher: International Journal of Robotics Research (IJRR)
-  date: ''
-  link: ccft9" target="_blank" rel="noopener noreferrer" title="https://doi.org/hccft9">https://doi.org/hccft9</a>
+  date: '2019-01-01'
+  link: https://doi.org/hccft9
   orcid: 0000-0003-3238-8153
   plugin: sources.py
   file: sources.yaml
@@ -421,9 +389,8 @@
   - Dana Kulic
   - Stephen L. Smith
   publisher: 2018 IEEE International Conference on Robotics and Automation (ICRA)
-  date: ''
-  link: <a href="https://doi.org/hccfvb" target="_blank" rel="noopener noreferrer"
-    title="https://doi.org/hccfvb">https://doi.org/hccfvb</a>
+  date: '2018-05-01'
+  link: https://doi.org/hccfvb
   orcid: 0000-0003-3238-8153
   plugin: sources.py
   file: sources.yaml
