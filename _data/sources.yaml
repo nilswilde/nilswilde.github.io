@@ -265,17 +265,6 @@
   link: https://doi.org/ggzj35
   orcid: 0000-0003-3238-8153
 
-  
-- id: doi:10.48550/arxiv.1901.09470
-  title: Bayesian Active Learning for Collaborative Task Specification Using Equivalence
-    Regions
-  authors:
-  - Nils Wilde
-  - Dana Kulic
-  - Stephen L. Smith
-  publisher: arXiv
-  date: '2019-01-01'
-  link: https://doi.org/hccft8
 
 - id: doi:10.48550/arxiv.1907.10412
   title: 'Improving User Specifications for Robot Behavior through Active Preference
