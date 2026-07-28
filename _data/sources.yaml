@@ -95,14 +95,6 @@
   link: https://doi.org/hccftn
   orcid: 0000-0003-3238-8153
 
-- id: issn:26403498
-  title: ISSN 2640-3498 - Proceedings of Machine Learning Research
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://portal.issn.org/resource/ISSN/26403498
-  orcid: 0000-0003-3238-8153
-
 - id: doi:10.1007/978-3-031-21090-7_30
   title: Error-Bounded Approximation of Pareto Fronts in Robot Planning Problems
   authors:
@@ -114,14 +106,6 @@
   publisher: Springer Proceedings in Advanced Robotics
   date: '2022-12-15'
   link: https://doi.org/hccftp
-  orcid: 0000-0003-3238-8153
-
-- id: issn:23318422
-  title: ISSN 2331-8422 - ArXiv.org
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://portal.issn.org/resource/ISSN/23318422
   orcid: 0000-0003-3238-8153
 
 - id: doi:10.1109/LRA.2021.3135928
@@ -144,17 +128,6 @@
   publisher: 2022 European Control Conference (ECC)
   date: '2022-07-12'
   link: https://doi.org/hccftr
-  orcid: 0000-0003-3238-8153
-
-- id: doi:10.48550/arxiv.2203.16070
-  title: An Improved Greedy Algorithm for Subset Selection in Linear Estimation
-  authors:
-  - Shamak Dutta
-  - Nils Wilde
-  - Stephen L. Smith
-  publisher: arXiv
-  date: '2022-01-01'
-  link: https://doi.org/hccfts
   orcid: 0000-0003-3238-8153
 
 - id: doi:10.48550/arXiv.2210.08107
@@ -194,16 +167,6 @@
   link: https://doi.org/hccftw
   orcid: 0000-0003-3238-8153
 
-- id: doi:10.48550/arxiv.2204.09571
-  title: Informative Path Planning in Random Fields via Mixed Integer Programming
-  authors:
-  - Shamak Dutta
-  - Nils Wilde
-  - Stephen L. Smith
-  publisher: arXiv
-  date: '2022-01-01'
-  link: https://doi.org/hccftx
-  orcid: 0000-0003-3238-8153
 
 - id: doi:10.1109/CDC51059.2022.9993099
   title: Online Multi-Robot Task Assignment with Stochastic Blockages
@@ -225,18 +188,6 @@
   publisher: 2022 IEEE 61st Conference on Decision and Control (CDC)
   date: '2022-12-06'
   link: https://doi.org/g4hnqb
-  orcid: 0000-0003-3238-8153
-
-- id: doi:10.48550/arXiv.2209.03458
-  title: Scheduling Operator Assistance for Shared Autonomy in Multi-Robot Teams
-  authors:
-  - Yifan Cai
-  - Abhinav Dahiya
-  - Nils Wilde
-  - Stephen L. Smith
-  publisher: arXiv
-  date: '2022-01-01'
-  link: https://doi.org/hccft2
   orcid: 0000-0003-3238-8153
 
 - id: doi:10.1007/978-3-030-66723-8_23
@@ -262,17 +213,6 @@
   link: https://doi.org/hccft4
   orcid: 0000-0003-3238-8153
 
-- id: doi:10.48550/arxiv.2112.08000
-  title: Learning Submodular Objectives for Team Environmental Monitoring
-  authors:
-  - Nils Wilde
-  - Armin Sadeghi
-  - Stephen L. Smith
-  publisher: arXiv
-  date: '2021-01-01'
-  link: https://doi.org/hccft5
-  orcid: 0000-0003-3238-8153
-
 - id: doi:10.1177/0278364920910802
   title: 'Improving user specifications for robot behavior through active preference
     learning: Framework and evaluation'
@@ -285,16 +225,6 @@
   date: '2020-03-18'
   link: https://doi.org/gqwjmt
   orcid: 0000-0003-3238-8153
-
-- id: doi:10.48550/arxiv.2005.04067
-  title: Active Preference Learning using Maximum Regret
-  authors:
-  - Nils Wilde
-  - Dana Kulic
-  - Stephen L. Smith
-  publisher: arXiv
-  date: '2020-01-01'
-  link: https://doi.org/hccft6
 
   
 - id: doi:10.1109/IROS45743.2020.9341530
@@ -353,7 +283,7 @@
   - Alexandru Blidaru
   - Stephen L. Smith
   - "Dana Kuli\u0107"
-  publisher: arXiv
+  publisher: International Journal of Robotics Research (IJRR)
   date: '2019-01-01'
   link: https://doi.org/hccft9
 
