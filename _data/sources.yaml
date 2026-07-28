@@ -6,6 +6,305 @@
   - Chris Pek
   - Javier Alonso-Mora
   publisher: IEEE Robotics and Automation Letters
+  date: '2026-06-01'
+  link: https://doi.org/hccftd
+
+- id: doi:10.1109/TRO.2025.3548865
+  title: Informative Path Planning for Active Regression With Gaussian Processes via
+    Sparse Optimization
+  authors:
+  - Shamak Dutta
+  - Nils Wilde
+  - Stephen L. Smith
+  publisher: IEEE Transactions on Robotics
+  date: '2025-01-01'
+  link: https://doi.org/hccftf
+  orcid: 0000-0003-3238-8153
+
+- id: doi:10.1109/LRA.2024.3357313
+  title: Scalarizing Multi-Objective Robot Planning Problems Using Weighted Maximization
+  authors:
+  - Nils Wilde
+  - Stephen L. Smith
+  - Javier Alonso-Mora
+  publisher: IEEE Robotics and Automation Letters
+  date: '2024-03-01'
+  link: https://doi.org/hccftg
+  orcid: 0000-0003-3238-8153
+
+- id: doi:10.1109/TRO.2024.3428990
+  title: Regret-Based Sampling of Pareto Fronts for Multiobjective Robot Planning
+    Problems
+  authors:
+  - Alexander Botros
+  - Nils Wilde
+  - Armin Sadeghi
+  - Javier Alonso-Mora
+  - Stephen L. Smith
+  publisher: IEEE Transactions on Robotics
+  date: '2024-01-01'
+  link: https://doi.org/hccfth
+  orcid: 0000-0003-3238-8153
+
+- id: doi:10.1109/TRO.2024.3359530
+  title: Statistically Distinct Plans for Multiobjective Task Assignment
+  authors:
+  - Nils Wilde
+  - Javier Alonso-Mora
+  publisher: IEEE Transactions on Robotics
+  date: '2024-01-01'
+  link: https://doi.org/hccftj
+  orcid: 0000-0003-3238-8153
+
+- id: doi:10.1109/LRA.2023.3295251
+  title: Optimizing Task Waiting Times in Dynamic Vehicle Routing
+  authors:
+  - Alexander Botros
+  - Barry Gilhuly
+  - Nils Wilde
+  - Armin Sadeghi
+  - Javier Alonso-Mora
+  - Stephen L. Smith
+  publisher: IEEE Robotics and Automation Letters
+  date: '2023-09-01'
+  link: https://doi.org/hccftk
+  orcid: 0000-0003-3238-8153
+
+- id: doi:10.48550/arXiv.2304.02692
+  title: A Unified Approach to Optimally Solving Sensor Scheduling and Sensor Selection
+    Problems in Kalman Filtering
+  authors:
+  - Shamak Dutta
+  - Nils Wilde
+  - Stephen L. Smith
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/hccftm
+  orcid: 0000-0003-3238-8153
+
+- id: doi:10.1109/ICRA48891.2023.10160912
+  title: Approximation Algorithms for Robot Tours in Random Fields with Guaranteed
+    Estimation Accuracy
+  authors:
+  - Shamak Dutta
+  - Nils Wilde
+  - Pratap Tokekar
+  - Stephen L. Smith
+  publisher: 2023 IEEE International Conference on Robotics and Automation (ICRA)
+  date: '2023-05-29'
+  link: https://doi.org/hccftn
+  orcid: 0000-0003-3238-8153
+
+- id: doi:10.1007/978-3-031-21090-7_30
+  title: Error-Bounded Approximation of Pareto Fronts in Robot Planning Problems
+  authors:
+  - Alexander Botros
+  - Armin Sadeghi
+  - Nils Wilde
+  - Javier Alonso-Mora
+  - Stephen L. Smith
+  publisher: Springer Proceedings in Advanced Robotics
+  date: '2022-12-15'
+  link: https://doi.org/hccftp
+  orcid: 0000-0003-3238-8153
+
+- id: doi:10.1109/LRA.2021.3135928
+  title: Learning Submodular Objectives for Team Environmental Monitoring
+  authors:
+  - Nils Wilde
+  - Armin Sadeghi
+  - Stephen L. Smith
+  publisher: IEEE Robotics and Automation Letters
+  date: '2022-04-01'
+  link: https://doi.org/hccftq
+  orcid: 0000-0003-3238-8153
+
+- id: doi:10.23919/ECC55457.2022.9838199
+  title: An Improved Greedy Algorithm for Subset Selection in Linear Estimation
+  authors:
+  - Shamak Dutta
+  - Nils Wilde
+  - Stephen L. Smith
+  publisher: 2022 European Control Conference (ECC)
+  date: '2022-07-12'
+  link: https://doi.org/hccftr
+  orcid: 0000-0003-3238-8153
+
+- id: doi:10.48550/arXiv.2210.08107
+  title: Approximation Algorithms for Robot Tours in Random Fields with Guaranteed
+    Estimation Accuracy
+  authors:
+  - Shamak Dutta
+  - Nils Wilde
+  - Pratap Tokekar
+  - Stephen L. Smith
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/hccftt
+  orcid: 0000-0003-3238-8153
+
+- id: doi:10.48550/arXiv.2206.00663
+  title: Error-Bounded Approximation of Pareto Fronts in Robot Planning Problems
+  authors:
+  - Alexander Botros
+  - Armin Sadeghi
+  - Nils Wilde
+  - Javier Alonso-Mora
+  - Stephen L. Smith
+  publisher: arXiv
+  date: '2022-01-01'
+  link: https://doi.org/hccftv
+  orcid: 0000-0003-3238-8153
+
+- id: doi:10.1109/CDC51059.2022.9992909
+  title: Informative Path Planning in Random Fields via Mixed Integer Programming
+  authors:
+  - Shamak Dutta
+  - Nils Wilde
+  - Stephen L. Smith
+  publisher: 2022 IEEE 61st Conference on Decision and Control (CDC)
+  date: '2022-12-06'
+  link: https://doi.org/hccftw
+  orcid: 0000-0003-3238-8153
+
+
+- id: doi:10.1109/CDC51059.2022.9993099
+  title: Online Multi-Robot Task Assignment with Stochastic Blockages
+  authors:
+  - Nils Wilde
+  - Javier Alonso-Mora
+  publisher: 2022 IEEE 61st Conference on Decision and Control (CDC)
+  date: '2022-12-06'
+  link: https://doi.org/hccftz
+  orcid: 0000-0003-3238-8153
+
+- id: doi:10.1109/CDC51059.2022.9993014
+  title: Scheduling Operator Assistance for Shared Autonomy in Multi-Robot Teams
+  authors:
+  - Yifan Cai
+  - Abhinav Dahiya
+  - Nils Wilde
+  - Stephen L. Smith
+  publisher: 2022 IEEE 61st Conference on Decision and Control (CDC)
+  date: '2022-12-06'
+  link: https://doi.org/g4hnqb
+  orcid: 0000-0003-3238-8153
+
+- id: doi:10.1007/978-3-030-66723-8_23
+  title: Learning Control Sets for Lattice Planners from User Preferences
+  authors:
+  - Alexander Botros
+  - Nils Wilde
+  - Stephen L. Smith
+  publisher: Springer Proceedings in Advanced Robotics
+  date: '2021-01-01'
+  link: https://doi.org/hccft3
+  orcid: 0000-0003-3238-8153
+
+- id: doi:10.48550/arxiv.2110.00284
+  title: Learning Reward Functions from Scale Feedback
+  authors:
+  - Nils Wilde
+  - "Erdem B\u0131y\u0131k"
+  - Dorsa Sadigh
+  - Stephen L. Smith
+  publisher: arXiv
+  date: '2021-01-01'
+  link: https://doi.org/hccft4
+  orcid: 0000-0003-3238-8153
+
+- id: doi:10.1177/0278364920910802
+  title: 'Improving user specifications for robot behavior through active preference
+    learning: Framework and evaluation'
+  authors:
+  - Nils Wilde
+  - Alexandru Blidaru
+  - Stephen L Smith
+  - "Dana Kuli\u0107"
+  publisher: The International Journal of Robotics Research
+  date: '2020-03-18'
+  link: https://doi.org/gqwjmt
+  orcid: 0000-0003-3238-8153
+
+  
+- id: doi:10.1109/IROS45743.2020.9341530
+  title: Active Preference Learning using Maximum Regret
+  authors:
+  - Nils Wilde
+  - Dana Kulic
+  - Stephen L. Smith
+  publisher: 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems
+    (IROS)
+  date: '2020-10-24'
+  link: https://doi.org/hccft7
+
+  
+- id: doi:10.1109/ICRA40945.2020.9197040
+  title: Learning User Preferences from Corrections on State Lattices
+  authors:
+  - Nils Wilde
+  - Dana Kulic
+  - Stephen L. Smith
+  publisher: 2020 IEEE International Conference on Robotics and Automation (ICRA)
+  date: '2020-05-01'
+  link: https://doi.org/gqmqmg
+  orcid: 0000-0003-3238-8153
+
+  
+- id: doi:10.1109/LRA.2019.2897342
+  title: Bayesian Active Learning for Collaborative Task Specification Using Equivalence
+    Regions
+  authors:
+  - Nils Wilde
+  - Dana Kulic
+  - Stephen L. Smith
+  publisher: IEEE Robotics and Automation Letters
+  date: '2019-04-01'
+  link: https://doi.org/ggzj35
+  orcid: 0000-0003-3238-8153
+
+  
+- id: doi:10.48550/arxiv.1901.09470
+  title: Bayesian Active Learning for Collaborative Task Specification Using Equivalence
+    Regions
+  authors:
+  - Nils Wilde
+  - Dana Kulic
+  - Stephen L. Smith
+  publisher: arXiv
+  date: '2019-01-01'
+  link: https://doi.org/hccft8
+
+- id: doi:10.48550/arxiv.1907.10412
+  title: 'Improving User Specifications for Robot Behavior through Active Preference
+    Learning: Framework and Evaluation'
+  authors:
+  - Nils Wilde
+  - Alexandru Blidaru
+  - Stephen L. Smith
+  - "Dana Kuli\u0107"
+  publisher: International Journal of Robotics Research (IJRR)
+  date: '2019-01-01'
+  link: https://doi.org/hccft9
+
+  
+- id: doi:10.1109/ICRA.2018.8460586
+  title: Learning User Preferences in Robot Motion Planning Through Interaction
+  authors:
+  - Nils Wilde
+  - Dana Kulic
+  - Stephen L. Smith
+  publisher: 2018 IEEE International Conference on Robotics and Automation (ICRA)
+  date: '2018-05-01'
+  link: https://doi.org/hccfvb
+  orcid: 0000-0003-3238-8153- id: doi:10.1109/LRA.2026.3685463
+  title: Cross-Entropy Optimization of Physically Grounded Task and Motion Plans
+  authors:
+  - Andreu Matoses Gimenez
+  - Nils Wilde
+  - Chris Pek
+  - Javier Alonso-Mora
+  publisher: IEEE Robotics and Automation Letters
   date: '2026'
   link: <a href="https://doi.org/hccftd" target="_blank" rel="noopener noreferrer" title="https://doi.org/hccftd">https://doi.org/hccftd</a>
 
