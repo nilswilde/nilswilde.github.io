@@ -8,9 +8,7 @@
   publisher: IEEE Robotics and Automation Letters
   date: '2026-06-01'
   link: https://doi.org/hccftd
-  orcid: 0000-0003-3238-8153
-  plugin: orcid.py
-  file: orcid.yaml
+
 - id: doi:10.1109/TRO.2025.3548865
   title: Informative Path Planning for Active Regression With Gaussian Processes via
     Sparse Optimization
@@ -22,8 +20,7 @@
   date: '2025-01-01'
   link: https://doi.org/hccftf
   orcid: 0000-0003-3238-8153
-  plugin: orcid.py
-  file: orcid.yaml
+
 - id: doi:10.1109/LRA.2024.3357313
   title: Scalarizing Multi-Objective Robot Planning Problems Using Weighted Maximization
   authors:
@@ -34,8 +31,7 @@
   date: '2024-03-01'
   link: https://doi.org/hccftg
   orcid: 0000-0003-3238-8153
-  plugin: orcid.py
-  file: orcid.yaml
+
 - id: doi:10.1109/TRO.2024.3428990
   title: Regret-Based Sampling of Pareto Fronts for Multiobjective Robot Planning
     Problems
@@ -49,8 +45,7 @@
   date: '2024-01-01'
   link: https://doi.org/hccfth
   orcid: 0000-0003-3238-8153
-  plugin: orcid.py
-  file: orcid.yaml
+
 - id: doi:10.1109/TRO.2024.3359530
   title: Statistically Distinct Plans for Multiobjective Task Assignment
   authors:
@@ -60,8 +55,7 @@
   date: '2024-01-01'
   link: https://doi.org/hccftj
   orcid: 0000-0003-3238-8153
-  plugin: orcid.py
-  file: orcid.yaml
+
 - id: doi:10.1109/LRA.2023.3295251
   title: Optimizing Task Waiting Times in Dynamic Vehicle Routing
   authors:
@@ -75,8 +69,7 @@
   date: '2023-09-01'
   link: https://doi.org/hccftk
   orcid: 0000-0003-3238-8153
-  plugin: orcid.py
-  file: orcid.yaml
+
 - id: doi:10.48550/arXiv.2304.02692
   title: A Unified Approach to Optimally Solving Sensor Scheduling and Sensor Selection
     Problems in Kalman Filtering
@@ -88,8 +81,7 @@
   date: '2023-01-01'
   link: https://doi.org/hccftm
   orcid: 0000-0003-3238-8153
-  plugin: orcid.py
-  file: orcid.yaml
+
 - id: doi:10.1109/ICRA48891.2023.10160912
   title: Approximation Algorithms for Robot Tours in Random Fields with Guaranteed
     Estimation Accuracy
@@ -102,8 +94,7 @@
   date: '2023-05-29'
   link: https://doi.org/hccftn
   orcid: 0000-0003-3238-8153
-  plugin: orcid.py
-  file: orcid.yaml
+
 - id: issn:26403498
   title: ISSN 2640-3498 - Proceedings of Machine Learning Research
   authors: []
@@ -111,8 +102,7 @@
   date: ''
   link: https://portal.issn.org/resource/ISSN/26403498
   orcid: 0000-0003-3238-8153
-  plugin: orcid.py
-  file: orcid.yaml
+
 - id: doi:10.1007/978-3-031-21090-7_30
   title: Error-Bounded Approximation of Pareto Fronts in Robot Planning Problems
   authors:
@@ -125,8 +115,7 @@
   date: '2022-12-15'
   link: https://doi.org/hccftp
   orcid: 0000-0003-3238-8153
-  plugin: orcid.py
-  file: orcid.yaml
+
 - id: issn:23318422
   title: ISSN 2331-8422 - ArXiv.org
   authors: []
@@ -134,8 +123,7 @@
   date: ''
   link: https://portal.issn.org/resource/ISSN/23318422
   orcid: 0000-0003-3238-8153
-  plugin: orcid.py
-  file: orcid.yaml
+
 - id: doi:10.1109/LRA.2021.3135928
   title: Learning Submodular Objectives for Team Environmental Monitoring
   authors:
@@ -146,8 +134,7 @@
   date: '2022-04-01'
   link: https://doi.org/hccftq
   orcid: 0000-0003-3238-8153
-  plugin: orcid.py
-  file: orcid.yaml
+
 - id: doi:10.23919/ECC55457.2022.9838199
   title: An Improved Greedy Algorithm for Subset Selection in Linear Estimation
   authors:
@@ -158,8 +145,7 @@
   date: '2022-07-12'
   link: https://doi.org/hccftr
   orcid: 0000-0003-3238-8153
-  plugin: orcid.py
-  file: orcid.yaml
+
 - id: doi:10.48550/arxiv.2203.16070
   title: An Improved Greedy Algorithm for Subset Selection in Linear Estimation
   authors:
@@ -170,8 +156,7 @@
   date: '2022-01-01'
   link: https://doi.org/hccfts
   orcid: 0000-0003-3238-8153
-  plugin: orcid.py
-  file: orcid.yaml
+
 - id: doi:10.48550/arXiv.2210.08107
   title: Approximation Algorithms for Robot Tours in Random Fields with Guaranteed
     Estimation Accuracy
@@ -184,8 +169,7 @@
   date: '2022-01-01'
   link: https://doi.org/hccftt
   orcid: 0000-0003-3238-8153
-  plugin: orcid.py
-  file: orcid.yaml
+
 - id: doi:10.48550/arXiv.2206.00663
   title: Error-Bounded Approximation of Pareto Fronts in Robot Planning Problems
   authors:
@@ -198,8 +182,7 @@
   date: '2022-01-01'
   link: https://doi.org/hccftv
   orcid: 0000-0003-3238-8153
-  plugin: orcid.py
-  file: orcid.yaml
+
 - id: doi:10.1109/CDC51059.2022.9992909
   title: Informative Path Planning in Random Fields via Mixed Integer Programming
   authors:
@@ -210,8 +193,7 @@
   date: '2022-12-06'
   link: https://doi.org/hccftw
   orcid: 0000-0003-3238-8153
-  plugin: orcid.py
-  file: orcid.yaml
+
 - id: doi:10.48550/arxiv.2204.09571
   title: Informative Path Planning in Random Fields via Mixed Integer Programming
   authors:
@@ -222,8 +204,7 @@
   date: '2022-01-01'
   link: https://doi.org/hccftx
   orcid: 0000-0003-3238-8153
-  plugin: orcid.py
-  file: orcid.yaml
+
 - id: doi:10.1109/CDC51059.2022.9993099
   title: Online Multi-Robot Task Assignment with Stochastic Blockages
   authors:
@@ -233,8 +214,7 @@
   date: '2022-12-06'
   link: https://doi.org/hccftz
   orcid: 0000-0003-3238-8153
-  plugin: orcid.py
-  file: orcid.yaml
+
 - id: doi:10.1109/CDC51059.2022.9993014
   title: Scheduling Operator Assistance for Shared Autonomy in Multi-Robot Teams
   authors:
@@ -246,8 +226,7 @@
   date: '2022-12-06'
   link: https://doi.org/g4hnqb
   orcid: 0000-0003-3238-8153
-  plugin: orcid.py
-  file: orcid.yaml
+
 - id: doi:10.48550/arXiv.2209.03458
   title: Scheduling Operator Assistance for Shared Autonomy in Multi-Robot Teams
   authors:
@@ -259,8 +238,7 @@
   date: '2022-01-01'
   link: https://doi.org/hccft2
   orcid: 0000-0003-3238-8153
-  plugin: orcid.py
-  file: orcid.yaml
+
 - id: doi:10.1007/978-3-030-66723-8_23
   title: Learning Control Sets for Lattice Planners from User Preferences
   authors:
@@ -271,8 +249,7 @@
   date: '2021-01-01'
   link: https://doi.org/hccft3
   orcid: 0000-0003-3238-8153
-  plugin: orcid.py
-  file: orcid.yaml
+
 - id: doi:10.48550/arxiv.2110.00284
   title: Learning Reward Functions from Scale Feedback
   authors:
@@ -284,8 +261,7 @@
   date: '2021-01-01'
   link: https://doi.org/hccft4
   orcid: 0000-0003-3238-8153
-  plugin: orcid.py
-  file: orcid.yaml
+
 - id: doi:10.48550/arxiv.2112.08000
   title: Learning Submodular Objectives for Team Environmental Monitoring
   authors:
@@ -296,8 +272,7 @@
   date: '2021-01-01'
   link: https://doi.org/hccft5
   orcid: 0000-0003-3238-8153
-  plugin: orcid.py
-  file: orcid.yaml
+
 - id: doi:10.1177/0278364920910802
   title: 'Improving user specifications for robot behavior through active preference
     learning: Framework and evaluation'
@@ -310,8 +285,7 @@
   date: '2020-03-18'
   link: https://doi.org/gqwjmt
   orcid: 0000-0003-3238-8153
-  plugin: orcid.py
-  file: orcid.yaml
+
 - id: doi:10.48550/arxiv.2005.04067
   title: Active Preference Learning using Maximum Regret
   authors:
