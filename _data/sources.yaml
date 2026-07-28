@@ -6,8 +6,8 @@
   - Chris Pek
   - Javier Alonso-Mora
   publisher: IEEE Robotics and Automation Letters
-  date: '2026-06-01'
-  link: https://doi.org/hccftd
+  date: '2026'
+  link: <a href="https://doi.org/hccftd" target="_blank" rel="noopener noreferrer" title="https://doi.org/hccftd">https://doi.org/hccftd</a>
 
 - id: doi:10.1109/TRO.2025.3548865
   title: Informative Path Planning for Active Regression With Gaussian Processes via
@@ -17,8 +17,8 @@
   - Nils Wilde
   - Stephen L. Smith
   publisher: IEEE Transactions on Robotics
-  date: '2025-01-01'
-  link: https://doi.org/hccftf
+  date: '2025'
+  link: <a href="https://doi.org/hccftf" target="_blank" rel="noopener noreferrer" title="https://doi.org/hccftf">https://doi.org/hccftf</a>
   orcid: 0000-0003-3238-8153
 
 - id: doi:10.1109/LRA.2024.3357313
@@ -28,8 +28,8 @@
   - Stephen L. Smith
   - Javier Alonso-Mora
   publisher: IEEE Robotics and Automation Letters
-  date: '2024-03-01'
-  link: https://doi.org/hccftg
+  date: '2024'
+  link: <a href="https://doi.org/hccftg" target="_blank" rel="noopener noreferrer" title="https://doi.org/hccftg">https://doi.org/hccftg</a>
   orcid: 0000-0003-3238-8153
 
 - id: doi:10.1109/TRO.2024.3428990
@@ -42,8 +42,8 @@
   - Javier Alonso-Mora
   - Stephen L. Smith
   publisher: IEEE Transactions on Robotics
-  date: '2024-01-01'
-  link: https://doi.org/hccfth
+  date: '2024'
+  link: <a href="https://doi.org/hccfth" target="_blank" rel="noopener noreferrer" title="https://doi.org/hccfth">https://doi.org/hccfth</a>
   orcid: 0000-0003-3238-8153
 
 - id: doi:10.1109/TRO.2024.3359530
@@ -52,8 +52,8 @@
   - Nils Wilde
   - Javier Alonso-Mora
   publisher: IEEE Transactions on Robotics
-  date: '2024-01-01'
-  link: https://doi.org/hccftj
+  date: '2024'
+  link: <a href="https://doi.org/hccftj" target="_blank" rel="noopener noreferrer" title="https://doi.org/hccftj">https://doi.org/hccftj</a>
   orcid: 0000-0003-3238-8153
 
 - id: doi:10.1109/LRA.2023.3295251
@@ -66,8 +66,8 @@
   - Javier Alonso-Mora
   - Stephen L. Smith
   publisher: IEEE Robotics and Automation Letters
-  date: '2023-09-01'
-  link: https://doi.org/hccftk
+  date: '2023'
+  link: <a href="https://doi.org/hccftk" target="_blank" rel="noopener noreferrer" title="https://doi.org/hccftk">https://doi.org/hccftk</a>
   orcid: 0000-0003-3238-8153
 
 - id: doi:10.48550/arXiv.2304.02692
@@ -78,8 +78,8 @@
   - Nils Wilde
   - Stephen L. Smith
   publisher: arXiv
-  date: '2023-01-01'
-  link: https://doi.org/hccftm
+  date: '2023'
+  link: <a href="https://doi.org/hccftm" target="_blank" rel="noopener noreferrer" title="https://doi.org/hccftm">https://doi.org/hccftm</a>
   orcid: 0000-0003-3238-8153
 
 - id: doi:10.1109/ICRA48891.2023.10160912
@@ -91,8 +91,8 @@
   - Pratap Tokekar
   - Stephen L. Smith
   publisher: 2023 IEEE International Conference on Robotics and Automation (ICRA)
-  date: '2023-05-29'
-  link: https://doi.org/hccftn
+  date: '2023'
+  link: <a href="https://doi.org/hccftn" target="_blank" rel="noopener noreferrer" title="https://doi.org/hccftn">https://doi.org/hccftn</a>
   orcid: 0000-0003-3238-8153
 
 - id: doi:10.1007/978-3-031-21090-7_30
@@ -104,8 +104,8 @@
   - Javier Alonso-Mora
   - Stephen L. Smith
   publisher: Springer Proceedings in Advanced Robotics
-  date: '2022-12-15'
-  link: https://doi.org/hccftp
+  date: '2022'
+  link: <a href="https://doi.org/hccftp" target="_blank" rel="noopener noreferrer" title="https://doi.org/hccftp">https://doi.org/hccftp</a>
   orcid: 0000-0003-3238-8153
 
 - id: doi:10.1109/LRA.2021.3135928
@@ -115,8 +115,8 @@
   - Armin Sadeghi
   - Stephen L. Smith
   publisher: IEEE Robotics and Automation Letters
-  date: '2022-04-01'
-  link: https://doi.org/hccftq
+  date: '2022'
+  link: <a href="https://doi.org/hccftq" target="_blank" rel="noopener noreferrer" title="https://doi.org/hccftq">https://doi.org/hccftq</a>
   orcid: 0000-0003-3238-8153
 
 - id: doi:10.23919/ECC55457.2022.9838199
@@ -126,8 +126,8 @@
   - Nils Wilde
   - Stephen L. Smith
   publisher: 2022 European Control Conference (ECC)
-  date: '2022-07-12'
-  link: https://doi.org/hccftr
+  date: '2022'
+  link: <a href="https://doi.org/hccftr" target="_blank" rel="noopener noreferrer" title="https://doi.org/hccftr">https://doi.org/hccftr</a>
   orcid: 0000-0003-3238-8153
 
 - id: doi:10.48550/arXiv.2210.08107
@@ -139,8 +139,8 @@
   - Pratap Tokekar
   - Stephen L. Smith
   publisher: arXiv
-  date: '2022-01-01'
-  link: https://doi.org/hccftt
+  date: '2022'
+  link: <a href="https://doi.org/hccftt" target="_blank" rel="noopener noreferrer" title="https://doi.org/hccftt">https://doi.org/hccftt</a>
   orcid: 0000-0003-3238-8153
 
 - id: doi:10.48550/arXiv.2206.00663
@@ -152,8 +152,8 @@
   - Javier Alonso-Mora
   - Stephen L. Smith
   publisher: arXiv
-  date: '2022-01-01'
-  link: https://doi.org/hccftv
+  date: '2022'
+  link: <a href="https://doi.org/hccftv" target="_blank" rel="noopener noreferrer" title="https://doi.org/hccftv">https://doi.org/hccftv</a>
   orcid: 0000-0003-3238-8153
 
 - id: doi:10.1109/CDC51059.2022.9992909
@@ -163,10 +163,9 @@
   - Nils Wilde
   - Stephen L. Smith
   publisher: 2022 IEEE 61st Conference on Decision and Control (CDC)
-  date: '2022-12-06'
-  link: https://doi.org/hccftw
+  date: '2022'
+  link: <a href="https://doi.org/hccftw" target="_blank" rel="noopener noreferrer" title="https://doi.org/hccftw">https://doi.org/hccftw</a>
   orcid: 0000-0003-3238-8153
-
 
 - id: doi:10.1109/CDC51059.2022.9993099
   title: Online Multi-Robot Task Assignment with Stochastic Blockages
@@ -174,8 +173,8 @@
   - Nils Wilde
   - Javier Alonso-Mora
   publisher: 2022 IEEE 61st Conference on Decision and Control (CDC)
-  date: '2022-12-06'
-  link: https://doi.org/hccftz
+  date: '2022'
+  link: <a href="https://doi.org/hccftz" target="_blank" rel="noopener noreferrer" title="https://doi.org/hccftz">https://doi.org/hccftz</a>
   orcid: 0000-0003-3238-8153
 
 - id: doi:10.1109/CDC51059.2022.9993014
@@ -186,8 +185,8 @@
   - Nils Wilde
   - Stephen L. Smith
   publisher: 2022 IEEE 61st Conference on Decision and Control (CDC)
-  date: '2022-12-06'
-  link: https://doi.org/g4hnqb
+  date: '2022'
+  link: <a href="https://doi.org/g4hnqb" target="_blank" rel="noopener noreferrer" title="https://doi.org/g4hnqb">https://doi.org/g4hnqb</a>
   orcid: 0000-0003-3238-8153
 
 - id: doi:10.1007/978-3-030-66723-8_23
@@ -197,20 +196,20 @@
   - Nils Wilde
   - Stephen L. Smith
   publisher: Springer Proceedings in Advanced Robotics
-  date: '2021-01-01'
-  link: https://doi.org/hccft3
+  date: '2021'
+  link: <a href="https://doi.org/hccft3" target="_blank" rel="noopener noreferrer" title="https://doi.org/hccft3">https://doi.org/hccft3</a>
   orcid: 0000-0003-3238-8153
 
 - id: doi:10.48550/arxiv.2110.00284
   title: Learning Reward Functions from Scale Feedback
   authors:
   - Nils Wilde
-  - "Erdem B\u0131y\u0131k"
+  - "Erdem Bıyık"
   - Dorsa Sadigh
   - Stephen L. Smith
   publisher: arXiv
-  date: '2021-01-01'
-  link: https://doi.org/hccft4
+  date: '2021'
+  link: <a href="https://doi.org/hccft4" target="_blank" rel="noopener noreferrer" title="https://doi.org/hccft4">https://doi.org/hccft4</a>
   orcid: 0000-0003-3238-8153
 
 - id: doi:10.1177/0278364920910802
@@ -220,13 +219,12 @@
   - Nils Wilde
   - Alexandru Blidaru
   - Stephen L Smith
-  - "Dana Kuli\u0107"
+  - "Dana Kulić"
   publisher: The International Journal of Robotics Research
-  date: '2020-03-18'
-  link: https://doi.org/gqwjmt
+  date: '2020'
+  link: <a href="https://doi.org/gqwjmt" target="_blank" rel="noopener noreferrer" title="https://doi.org/gqwjmt">https://doi.org/gqwjmt</a>
   orcid: 0000-0003-3238-8153
 
-  
 - id: doi:10.1109/IROS45743.2020.9341530
   title: Active Preference Learning using Maximum Regret
   authors:
@@ -235,10 +233,9 @@
   - Stephen L. Smith
   publisher: 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems
     (IROS)
-  date: '2020-10-24'
-  link: https://doi.org/hccft7
+  date: '2020'
+  link: <a href="https://doi.org/hccft7" target="_blank" rel="noopener noreferrer" title="https://doi.org/hccft7">https://doi.org/hccft7</a>
 
-  
 - id: doi:10.1109/ICRA40945.2020.9197040
   title: Learning User Preferences from Corrections on State Lattices
   authors:
@@ -246,11 +243,10 @@
   - Dana Kulic
   - Stephen L. Smith
   publisher: 2020 IEEE International Conference on Robotics and Automation (ICRA)
-  date: '2020-05-01'
-  link: https://doi.org/gqmqmg
+  date: '2020'
+  link: <a href="https://doi.org/gqmqmg" target="_blank" rel="noopener noreferrer" title="https://doi.org/gqmqmg">https://doi.org/gqmqmg</a>
   orcid: 0000-0003-3238-8153
 
-  
 - id: doi:10.1109/LRA.2019.2897342
   title: Bayesian Active Learning for Collaborative Task Specification Using Equivalence
     Regions
@@ -259,11 +255,10 @@
   - Dana Kulic
   - Stephen L. Smith
   publisher: IEEE Robotics and Automation Letters
-  date: '2019-04-01'
-  link: https://doi.org/ggzj35
+  date: '2019'
+  link: <a href="https://doi.org/ggzj35" target="_blank" rel="noopener noreferrer" title="https://doi.org/ggzj35">https://doi.org/ggzj35</a>
   orcid: 0000-0003-3238-8153
 
-  
 - id: doi:10.48550/arxiv.1901.09470
   title: Bayesian Active Learning for Collaborative Task Specification Using Equivalence
     Regions
@@ -272,8 +267,8 @@
   - Dana Kulic
   - Stephen L. Smith
   publisher: arXiv
-  date: '2019-01-01'
-  link: https://doi.org/hccft8
+  date: '2019'
+  link: <a href="https://doi.org/hccft8" target="_blank" rel="noopener noreferrer" title="https://doi.org/hccft8">https://doi.org/hccft8</a>
 
 - id: doi:10.48550/arxiv.1907.10412
   title: 'Improving User Specifications for Robot Behavior through Active Preference
@@ -282,12 +277,11 @@
   - Nils Wilde
   - Alexandru Blidaru
   - Stephen L. Smith
-  - "Dana Kuli\u0107"
+  - "Dana Kulić"
   publisher: International Journal of Robotics Research (IJRR)
-  date: '2019-01-01'
-  link: https://doi.org/hccft9
+  date: '2019'
+  link: ccft9" target="_blank" rel="noopener noreferrer" title="https://doi.org/hccft9">https://doi.org/hccft9</a>
 
-  
 - id: doi:10.1109/ICRA.2018.8460586
   title: Learning User Preferences in Robot Motion Planning Through Interaction
   authors:
@@ -295,8 +289,6 @@
   - Dana Kulic
   - Stephen L. Smith
   publisher: 2018 IEEE International Conference on Robotics and Automation (ICRA)
-  date: '2018-05-01'
-  link: https://doi.org/hccfvb
+  date: '2018'
+  link: <a href="https://doi.org/hccfvb" target="_blank" rel="noopener noreferrer" title="https://doi.org/hccfvb">https://doi.org/hccfvb</a>
   orcid: 0000-0003-3238-8153
-
-
