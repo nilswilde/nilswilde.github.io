@@ -17,7 +17,10 @@ Our focus is on developing fundamental methods and solution in robot motion plan
 
 - **April 2026** Our paper *Approximate Scalarizations with Application to Multi-Objective Path Planning* got accepted at [WAFR 2026](https://algorithmic-robotics.org/).
 
-- **January 2026** Two papers were accepted at ICRA this year: *Balancing Deployment Costs in Multi-Robot Task Assignment* and *Learning Semantic Priorities for Autonomous Target Search*. Congrats to first-author Max Lodel of the latter one. pdf versions will be made available shortly.
+- **January 2026** Two papers were accepted at ICRA this year: *Balancing Deployment Costs in Multi-Robot Task Assignment* and *Learning Semantic Priorities for Autonomous Target Search*. Congrats to first-author Max Lodel of the latter one.
+
+<br/><br/>
+<br/><br/>
 
 - **November 2025** I had the pleasure to visit the [Intelligent Multi-Robot Coordination Lab](https://imrclab.github.io/) at TU Berlin and the [Resilient Cyber-Physical Systems](https://www.informatik.tu-darmstadt.de/rcps/rcps_menu/team_menu_rcps/team_details_135744.en.jsp) at TU Darmstadt, where I also gave seminars on our recent research on multi-objective optimization. Thanks for the kind invitations!
 
@@ -27,6 +30,9 @@ Our focus is on developing fundamental methods and solution in robot motion plan
 
 - **March 2025** We (myself, Dylan Shell and Javier Alonso-Mora) are organizing a workshop on **Multi-objective optimization and planning in Robotics** at RSS this year. Please find more details about this exciting event on our website: https://sites.google.com/view/moo-rss25/home
 
+<br/><br/>
+<br/><br/>
+
 - **November 2024** **I have several PhD openings in my new lab at [Dalhousie University](https://www.dal.ca/). Please check the Prospective Students page for more information.**
 
 - **October 2024** Beginning in December 2024, I start a new position as **Assistant Professor** in the Faculty of [Computer Science](https://www.dal.ca/faculty/computerscience.html) at Dalhousie University in Halifax, Canada! I am immensely looking forward to returning to Canada joining this innovative and vibrant campus community.
@@ -34,6 +40,9 @@ Our focus is on developing fundamental methods and solution in robot motion plan
 - **February 2024** Our work on *Regret-based Sampling of Pareto Fronts for Multi-Objective Robot Planning Problems* was accepted at Transactions on Robotics (T-RO)! The full paper is available here.
 
 - **January 2024** New year, new paper: Our work on *Scalarizing Multi-Objective Robot Planning Problems using Weighted Maximization* was accepted at RA-L, the full paper is available here.
+
+<br/><br/>
+<br/><br/>
 
 - **December 2023** We received a nice Christmas letter publication decision that our paper *Statistically Distinct Plans for Multi-Objective Planning and Task Assignment* was accepted at Transactions on Robotics (T-RO)! The full paper is available here.
 
