@@ -14,7 +14,7 @@ Many problems in robotics seek to simultaneously optimize several competing obje
 <br clear="left" />
 
 {% include section.html %}
-<img style="margin-left: 1.5rem" align="right" width="400" src="/research/images/mrta.png"/>
+<img style="margin-left: 1.5rem" align="right" width="400" src="/research/images/dvr.gif"/>
 ### Multi-robot Task Assignment and Pickup & Delivery
 
 Efficient service and logistics operations commonly require coordinated fleets of robots. Requests and tasks often appear dynamically and need to be allocated to an available robot, which then needs to include the new task within its current plan or route. Our work includes task assignment in dynamic and uncertain environments, coordination of heterogeneous fleets, and task assignment and vehicle routing under complex and multiple objectives.
