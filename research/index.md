@@ -17,12 +17,7 @@ Many problems in robotics seek to simultaneously optimize several competing obje
 <img align="right" width="400" src="/research/images/mrta.png"/>
 ### Multi-robot Task Assignment and Pickup & Delivery
 
-Autonomous robots find increasingly widespread deployment in service applications. For instance, in hospitals mobile robot platforms help to reduce the workload for qualified staff. Thus, as part of the EU Horizon 2020 project Harmony we investigate multi-robot task assignment for material transport in hospital environments with requests that appear online and have a fixed time window.
-
-When deployed in dynamic, human-centered environments parts of the environment may temporarily become blocked and which robots may only be able to observe on location. We propose an informed planning approach, which can substantially increase the number of on-time deliveries compared to reactive planning approaches. 
-
-Moreover, we recently studied heterogenous robot fleets. Complex task assignment problems require robots with a wider range of capabilities and skills. Mixed fleets deploying specialized robots allow for highly efficient solutions. However, designing robot fleets poses a challenging combinatorial problem. 
-
+Efficient service and logistics operations commonly require coordinated fleets of robots. Requests and tasks often appear dynamically and need to be allocated to an available robot, which then needs to include the new task within its current plan or route. Our work includes task assignment in dynamic and uncertain environments, coordination of heterogenous fleets, and task assignment and vehicle routing under complex and multiple objectives.
 
 <img align="left" width="400" src="/research/images/preflearn.png"/>
 ### Active Preference Learning
