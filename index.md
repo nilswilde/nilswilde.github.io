@@ -27,7 +27,7 @@ Explore the different research projects at LISARt.
 
 {%
   include feature.html
-  image="research/images/mrta.jpg"
+  image="research/images/mrta.png"
   link="research"
   title="Our Research"
   text=text
