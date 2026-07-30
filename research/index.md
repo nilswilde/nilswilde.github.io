@@ -23,3 +23,8 @@ When deployed in dynamic, human-centered environments parts of the environment m
 
 Moreover, we recently studied heterogenous robot fleets. Complex task assignment problems require robots with a wider range of capabilities and skills. Mixed fleets deploying specialized robots allow for highly efficient solutions. However, designing robot fleets poses a challenging combinatorial problem. 
 
+
+<img align="left" width="400" src="/research/images/preflearn.png"/>
+### Active Preference Learning
+
+An important challenge in human robot interaction (HRI) is enabling non-expert users to specify complex tasks for autonomous robots. We study interactive frameworks based on preference learning: Such frameworks repeatably show alternative robot plans to users to convey attainable solutions. Users choose between pairs of alternatives, allowing for the robot to learn a parametric model of the user's underlying preferences.
