@@ -10,14 +10,14 @@ nav:
 {% include section.html %}
 <img style="margin-right: 1.5rem" align="left" width="400" src="/research/images/moo.png"/>
 ### Multi-Objective Planning in Robotics
-Many problems in robotics seek to simultaneously optimize several competing objectives such as length, risk, and social acceptability of robot paths. We study different methods for scalarization of multi-objective problems such as the conventional approach is using a weighted sum of the individual objectives. Moreover, we investigate fundamental limitations of the widely used weighted sum approach and its alternatives.
+Many problems in robotics seek to simultaneously optimize several competing objectives such as length, risk, and social acceptability of robot paths. We study different methods for scalarization of multi-objective problems such as the conventional approach is using a weighted sum of the individual objectives. Leveraging theoretical properties of different scalarizations, we develop planning methods for a wide range of robotic problems that are tunable to attain any Pareto optimal trade-off, as well as algorithms to identify relevant choices of weights to efficiently approximate Pareto frontiers.
 <br clear="left" />
 
 {% include section.html %}
 <img style="margin-left: 1.5rem" align="right" width="400" src="/research/images/mrta.png"/>
 ### Multi-robot Task Assignment and Pickup & Delivery
 
-Efficient service and logistics operations commonly require coordinated fleets of robots. Requests and tasks often appear dynamically and need to be allocated to an available robot, which then needs to include the new task within its current plan or route. Our work includes task assignment in dynamic and uncertain environments, coordination of heterogenous fleets, and task assignment and vehicle routing under complex and multiple objectives.
+Efficient service and logistics operations commonly require coordinated fleets of robots. Requests and tasks often appear dynamically and need to be allocated to an available robot, which then needs to include the new task within its current plan or route. Our work includes task assignment in dynamic and uncertain environments, coordination of heterogeneous fleets, and task assignment and vehicle routing under complex and multiple objectives.
 
 {% include section.html %}
 <img style="margin-right: 1.5rem" align="left" width="400" src="/research/images/preflearn.png"/>
