@@ -7,18 +7,19 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-
+{% include section.html %}
 <img align="left" width="400" src="/research/images/moo.png"/>
 ### Multi-Objective Planning in Robotics
 Many problems in robotics seek to simultaneously optimize several competing objectives such as length, risk, and social acceptability of robot paths. A conventional approach is using a single cost function comprised of the weighted sum of the individual objectives. Yet, finding representative weights remains an important challenge. Thus, we study methods for computing a finite set of weight vectors whose optimal solutions approximate the set of all attainable solutions. Moreover, we investigate fundamental limitations of the widely used weighted sum approach and its alternatives.
 <br clear="left" />
 
-
+{% include section.html %}
 <img align="right" width="400" src="/research/images/mrta.png"/>
 ### Multi-robot Task Assignment and Pickup & Delivery
 
 Efficient service and logistics operations commonly require coordinated fleets of robots. Requests and tasks often appear dynamically and need to be allocated to an available robot, which then needs to include the new task within its current plan or route. Our work includes task assignment in dynamic and uncertain environments, coordination of heterogenous fleets, and task assignment and vehicle routing under complex and multiple objectives.
 
+{% include section.html %}
 <img align="left" width="400" src="/research/images/preflearn.png"/>
 ### Active Preference Learning
 
