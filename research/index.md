@@ -14,6 +14,7 @@ Many problems in robotics seek to simultaneously optimize several competing obje
 <br clear="left" />
 
 
+<img align="right" width="400" src="/research/images/mrta.png"/>
 ### Multi-robot Task Assignment and Pickup & Delivery
 
 Autonomous robots find increasingly widespread deployment in service applications. For instance, in hospitals mobile robot platforms help to reduce the workload for qualified staff. Thus, as part of the EU Horizon 2020 project Harmony we investigate multi-robot task assignment for material transport in hospital environments with requests that appear online and have a fixed time window.
