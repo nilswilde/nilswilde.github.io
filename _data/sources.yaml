@@ -4,6 +4,16 @@
   remove: true
 - id: issn:26403498
   remove: true
+- id: doi:10.48550/arxiv.1901.09470
+  remove: true
+- id: doi:10.48550/arxiv.2112.08000
+  remove: true
+- id: doi:10.48550/arxiv.2203.16070
+  remove: true
+- id: doi:10.48550/arxiv.2204.09571
+  remove: true
+- id: doi:10.48550/arXiv.2209.03458
+  remove: true
   
 - id: doi:10.1109/LRA.2026.3685463
   title: Cross-Entropy Optimization of Physically Grounded Task and Motion Plans
