@@ -144,18 +144,6 @@
   orcid: 0000-0003-3238-8153
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.48550/arxiv.2203.16070
-  title: An Improved Greedy Algorithm for Subset Selection in Linear Estimation
-  authors:
-  - Shamak Dutta
-  - Nils Wilde
-  - Stephen L. Smith
-  publisher: arXiv
-  date: '2022-01-01'
-  link: https://doi.org/hccfts
-  orcid: 0000-0003-3238-8153
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.48550/arXiv.2210.08107
   title: Approximation Algorithms for Robot Tours in Random Fields with Guaranteed
     Estimation Accuracy
@@ -196,18 +184,6 @@
   orcid: 0000-0003-3238-8153
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.48550/arxiv.2204.09571
-  title: Informative Path Planning in Random Fields via Mixed Integer Programming
-  authors:
-  - Shamak Dutta
-  - Nils Wilde
-  - Stephen L. Smith
-  publisher: arXiv
-  date: '2022-01-01'
-  link: https://doi.org/hccftx
-  orcid: 0000-0003-3238-8153
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1109/CDC51059.2022.9993099
   title: Online Multi-Robot Task Assignment with Stochastic Blockages
   authors:
@@ -232,19 +208,6 @@
   orcid: 0000-0003-3238-8153
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.48550/arXiv.2209.03458
-  title: Scheduling Operator Assistance for Shared Autonomy in Multi-Robot Teams
-  authors:
-  - Yifan Cai
-  - Abhinav Dahiya
-  - Nils Wilde
-  - Stephen L. Smith
-  publisher: arXiv
-  date: '2022-01-01'
-  link: https://doi.org/hccft2
-  orcid: 0000-0003-3238-8153
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1007/978-3-030-66723-8_23
   title: Learning Control Sets for Lattice Planners from User Preferences
   authors:
@@ -270,18 +233,6 @@
   orcid: 0000-0003-3238-8153
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.48550/arxiv.2112.08000
-  title: Learning Submodular Objectives for Team Environmental Monitoring
-  authors:
-  - Nils Wilde
-  - Armin Sadeghi
-  - Stephen L. Smith
-  publisher: arXiv
-  date: '2021-01-01'
-  link: https://doi.org/hccft5
-  orcid: 0000-0003-3238-8153
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1177/0278364920910802
   title: 'Improving user specifications for robot behavior through active preference
     learning: Framework and evaluation'
@@ -334,19 +285,6 @@
   orcid: 0000-0003-3238-8153
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.48550/arxiv.1901.09470
-  title: Bayesian Active Learning for Collaborative Task Specification Using Equivalence
-    Regions
-  authors:
-  - Nils Wilde
-  - Dana Kulic
-  - Stephen L. Smith
-  publisher: arXiv
-  date: '2019-01-01'
-  link: https://doi.org/hccft8
-  orcid: 0000-0003-3238-8153
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.48550/arxiv.1907.10412
   title: 'Improving User Specifications for Robot Behavior through Active Preference
     Learning: Framework and Evaluation'
