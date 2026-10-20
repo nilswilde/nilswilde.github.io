@@ -23,4 +23,4 @@ Our focus is on developing fundamental methods and solution in robot motion plan
 
 <br/><br/>
 
-See more under *[News](/news/index.md)*.
+See more under *[News](/news/)*.
