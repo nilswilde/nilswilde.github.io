@@ -15,7 +15,7 @@ nav:
 
 {% include list.html data="members" component="portrait" filter="role == 'Undergrad'" %}
 
-{% include section.html %}
+
 
 # {% include icon.html icon="fa-solid fa-users" %}Prospective Students
 
