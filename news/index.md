@@ -6,7 +6,8 @@ nav:
 ---
 
 ## News
-
+- **June 2026** Our paper *One-size-fits-all: Robust solutions to multi-objective planning problems* was accepted at [IROS 2026](https://2026.ieee-iros.org/).
+- 
 - **May 2026** I am incredibly exited to be invited as a *Symposium Speaker* at the [Conference on Robots and Vision](https://www.computerrobotvision.org/index.html) in Vancouver on May 26th. In the talk we will explore *User Preferences and Trade-offs in Robot Planning.*
 
 - **April 2026** Our paper *Cross-Entropy Optimization of Physically Grounded Task and Motion Plans* was published at RA-L, congrats to first author Andreu Gimenez! The paper is available on [arxiv](https://arxiv.org/pdf/2512.11571).
