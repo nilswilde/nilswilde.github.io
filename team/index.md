@@ -13,7 +13,7 @@ nav:
 
 {% include list.html data="members" component="portrait" filter="role == 'PhD'" %}
 
-
+{% include list.html data="members" component="portrait" filter="role == 'Undergrad'" %}
 
 {% include section.html %}
 
