@@ -1,6 +1,6 @@
 ---
 name: Kartik Rajeshwaran
-image: images/team/Kartik.jpg
+image: images/members/Kartik.jpg
 role: PhD
 description: PhD student
 ---
