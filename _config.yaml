@@ -5,6 +5,7 @@ header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 show-title: false
+show-subtitle: false
 
 # site social media and other links
 links:
