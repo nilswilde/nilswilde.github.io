@@ -1,6 +1,6 @@
 ---
-name: Eager Student
-image: images/team/some-image.jpg
+name: Kartik Rajeshwaran
+image: images/team/Kartik.jpg
 role: PhD
 description: PhD student
 ---
