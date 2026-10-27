@@ -16,17 +16,17 @@ permissions:
   pull-requests: write
 
 jobs:
-  test:
-    # Use Ubuntu 24.04 instead of Ubuntu 26.04
-    runs-on: ubuntu-24.04
+   
     
   update-citations:
+    runs-on: ubuntu-24.04
     # skip first run because nothing enabled or setup yet
     if: github.run_number != 1
     uses: ./.github/workflows/update-citations.yaml
     secrets: inherit
 
   build-site:
+    runs-on: ubuntu-24.04
     needs: update-citations
     uses: ./.github/workflows/build-site.yaml
     
