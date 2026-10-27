@@ -15,18 +15,15 @@ permissions:
   contents: write
   pull-requests: write
 
-jobs:
-   
+jobs:  
     
   update-citations:
-    runs-on: ubuntu-24.04
     # skip first run because nothing enabled or setup yet
     if: github.run_number != 1
     uses: ./.github/workflows/update-citations.yaml
     secrets: inherit
 
   build-site:
-    runs-on: ubuntu-24.04
     needs: update-citations
     uses: ./.github/workflows/build-site.yaml
     
