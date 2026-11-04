@@ -1,6 +1,6 @@
 ---
 name: Mohammed Sohab
-image: images/members/mohammed.jpg
+image: images/members/Sohab.jpg
 role: Undergrad
 description: Undergrad student
 ---
