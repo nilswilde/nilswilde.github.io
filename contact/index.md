@@ -11,12 +11,7 @@ You can find us on the Studley Campus at Dalhousie University, Halfiax, Canada.
 {% include button.html type="address" tooltip="Our location on Google Maps for easy navigation" link="https://www.google.com/maps/place/Goldberg+Computer+Science+Building/@44.6374827,-63.5899706,1586m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4b5a223ad1a74675:0xda7cf9c26983ebf9!8m2!3d44.6374827!4d-63.5873957!16s%2Fg%2F11kn702j2r!5m1!1e1?entry=ttu&g_ep=EgoyMDI2MTAxNC4wIKXMDSoASAFQAw%3D%3D" %}
 
 
-
-<!--
-Source - https://stackoverflow.com/a/39341021
-Posted by user1487547, modified by community. See post 'Timeline' for change history
-Retrieved 2026-11-13, License - CC BY-SA 3.0
--->
-
-<iframe src="https://www.google.com/maps/place/Goldberg+Computer+Science+Building/@44.6374827,-63.5899706,1586m/data=!3m2!1e3!4b1!4m6!3m5!1s0x4b5a223ad1a74675:0xda7cf9c26983ebf9!8m2!3d44.6374827!4d-63.5873957!16s%2Fg%2F11kn702j2r!5m1!1e1?entry=ttu&g_ep=EgoyMDI2MTAxNC4wIKXMDSoASAFQAw%3D%3D" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<p align="center">
+  <img src="./images/dal_campus.jpeg" alt="Dalhousie Campus" width="500">
+</p>
 
