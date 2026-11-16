@@ -1,1 +1,1 @@
-Sitemap: https://nilswilde.github.io/sitemap.xml
+Sitemap: http://lisart.org/sitemap.xml
