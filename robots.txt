@@ -1,1 +1,1 @@
-Sitemap: http://lisart.org/sitemap.xml
+Sitemap: http://www.lisart.org/sitemap.xml
