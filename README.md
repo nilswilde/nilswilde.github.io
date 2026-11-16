@@ -5,6 +5,6 @@
 
   # nilswilde's Website
 
-  Visit **[lisart.org](http://lisart.org)** 🚀
+  Visit **[www.lisart.org](http://www.lisart.org)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
