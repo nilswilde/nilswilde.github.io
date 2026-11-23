@@ -12,5 +12,5 @@ You can find us on the Studley Campus at Dalhousie University, Halfiax, Canada.
 
 <br/><br/>
 
-<img src="./images/dal_campus.jpeg" alt="" width="200"/>
+<img src="/images/dal_campus.jpeg" alt="" width="200"/>
 
